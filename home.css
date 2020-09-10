@@ -1,0 +1,20 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+    background-image: url("https://cdn.glitch.com/dc6be28d-7dd4-4045-8e94-1dcea597b7e5%2Fikon.png");
+    
+  }
+  
+  h1 {
+    font-style: italic;
+    color: white;
+  }
+  background-color: #34383c;
+  .pro {
+    box-shadow: 0px 0px 15px black; 
+    border: none; 
+    border-radius: 1rem; 
+    float: left; 
+    margin-left: 100px; 
+    margin-top: 100px;
+  }
